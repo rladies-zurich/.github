@@ -19,6 +19,13 @@ To get informed about upcoming events, follow us on Twitter or LinkedIn or join 
 
 If you would like to get involved (present or organise) feel free to contact us!
 
-## Upcoming events: 
+
+## next events:
+
+* 20st of January 2023: :star2: social get together/pubnight :star2:
+
+* 8th of March 2023: R-Ladies Zürich Event on International Women‘s Day
+
+## past events: 
 
 * 1st of December 2022: [customize your ggplot themes](https://www.meetup.com/de-DE/rladies-zurich/events/289394155/) :woman_artist: :woman_technologist: :woman_student:
