@@ -23,7 +23,7 @@ If you would like to get involved (present or organise) feel free to contact us!
 
 ## event material
 
-* 29nd of June 2023: [build your first web app with R Shiny]
+* 29nd of June 2023: [build your first web app with R Shiny](https://github.com/rladies-zurich/r-shiny)
 * 8th of March 2023: [R-stories: women from the R community](https://github.com/rladies-zurich/.github/files/11452517/R-STORIES_.WOMEN.FROM.THE.R-COMMUNITY.pptx)
 
 * 1st of December 2022: [customize your ggplot themes](https://github.com/rladies-zurich/ggplot_theme) :woman_artist: :woman_technologist: :woman_student:
