@@ -23,6 +23,7 @@ If you would like to get involved (present or organise) feel free to contact us!
 
 ## event material
 
+* 14th of November 2024: 
 * 23rd of October 2023: [template](https://github.com/rladies-zurich/template-02quarto) and [workshop material](https://github.com/rladies-zurich/workshop-02quarto) for the 'Zero to Quarto' workshop
 * 29nd of June 2023: [build your first web app with R Shiny](https://github.com/rladies-zurich/r-shiny)
 * 8th of March 2023: [R-stories: women from the R community](https://github.com/rladies-zurich/.github/files/11452517/R-STORIES_.WOMEN.FROM.THE.R-COMMUNITY.pptx)
